@@ -16,13 +16,13 @@ Quick start
 
 apt-cyg is a simple script. Once you choose a copy from 64bit version or 32bit version, make it executable:
 
-# chmod +x /bin/apt-cyg
+* chmod +x /bin/apt-cyg
 
 Optionally place apt-cyg in a bin/ folder on your path.
 
 Then use apt-cyg, for example:
 
-# apt-cyg install nano
+* apt-cyg install nano
 
 Contributing
 ------------
